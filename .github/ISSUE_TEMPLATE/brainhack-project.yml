@@ -1,5 +1,5 @@
 name: Open Science Workshop in Taiwan - Brainhack Project Submission
-description: This provides the backbone structure for your project description. Please follow along to submit your project! This template is inspired by [OHBM BrainHack 2025](https://github.com/ohbm/hackathon2025).
+description: This provides the backbone structure for your project description. Please follow along to submit your project!
 title: "<My Project Name>"
 labels: ["Hackathon Project"]
 assignees:
@@ -14,6 +14,7 @@ body:
         
         *We have prepared this template to help with your project submission. Please fill in the template (at least all 'required' items must be provided) and we will assign a 'project monitor' to follow your submission.
         If at any time you need help or anything is unclear, please add a comment and ping your project monitor.*
+        **This template is inspired by [OHBM BrainHack 2025](https://github.com/ohbm/hackathon2025).**
 
         Thank you!
 
