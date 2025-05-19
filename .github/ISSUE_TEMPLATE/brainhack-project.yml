@@ -9,7 +9,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Welcome to the BrainHack of "Open Minds, Open Data: The 2025 Taiwan Open Brain Science Workshop 開放思維，開放數據: 台灣開放腦科學工作坊" 🎉**
+        **Welcome to the BrainHack of "Open Minds, Open Data: The 2025 Taiwan Open Brain Science Workshop 
+        開放思維，開放數據: 台灣開放腦科學工作坊" 🎉**
         
         *We have prepared this template to help with your project submission. Please fill in the template (at least all 'required' items must be provided) and we will assign a 'project monitor' to follow your submission. If at any time you need help or anything is unclear, please add a comment and ping your project monitor.*
 
@@ -28,7 +29,7 @@ body:
   - type: textarea
     id: goals
     attributes:
-      label: Short description and the goals for the OHBM BrainHack
+      label: Short description and the goals for this BrainHack project
       description: Please provide a short description and goals for the hackathon, check [the guide](https://github.com/ohbm/hackathon2025/blob/main/PROJECTS_HANDBOOK.md#goals) for suggestions
     validations:
       required: true
@@ -41,13 +42,13 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: website-image
     attributes:
-      label: Image/Logo for the OHBM brainhack website
-      description: Please provide a link only. Please provide the RAW content of the file if you use an image from a GitHub repo. We kindly request that the image be provided in a square format, ensuring equal width and height for a polished visual appearance.
+      label: Image/Logo for the Workshop website
+      description: Upload your image/logo here
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: project-leads
