@@ -5,9 +5,8 @@ This event stemmed from the *Open Science in Asia/Korea* panel discussion hosted
 
 Please find more details of this event at [the event website](https://sites.google.com/tmu.edu.tw/openbrainscience/home)
 
-*This event is hosted by the Graduate Institute of Mind, Brain and Consciousness (GIMBC), Taipei Medical University, in collaboration with the OHBM Open Science Special Interest Group (OS-SIG) and the Open Science Room (OSR).*
-
-*This event is sponsored by the National Science and Technology Council of Taiwan.*
+> *This event is hosted by the Graduate Institute of Mind, Brain and Consciousness (GIMBC), Taipei Medical University, in collaboration with the OHBM Open Science Special Interest Group (OS-SIG) and the Open Science Room (OSR).*
+> *This event is sponsored by the National Science and Technology Council of Taiwan.*
 
 ## Project submission
 Please [open an issue with the BrainHack project template](https://github.com/ohbm/OSworkshop2025_Taiwan/issues/new?template=brainhack-project.yml) to submit your project.
