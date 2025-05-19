@@ -12,3 +12,6 @@ Please find more details of this event at [the event website](https://sites.goog
 ## Project submission
 Please [open an issue with the BrainHack project template](https://github.com/ohbm/OSworkshop2025_Taiwan/issues/new?template=brainhack-project.yml) to submit your project.
 
+### Discussion threads of a project
+You can find the discussion thread of a project in [**Discussion**](https://github.com/ohbm/OSworkshop2025_Taiwan/discussions). Each project will have its own discussion section where people from that project team (and others who are interested in it) can connect and have a conversation!
+
