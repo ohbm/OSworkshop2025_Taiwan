@@ -10,5 +10,5 @@ Please find more details of this event at [the event website](https://sites.goog
 *This event is sponsored by the National Science and Technology Council of Taiwan.*
 
 ## Project submission
-Please [open an issue](https://github.com/ohbm/OSworkshop2025_Taiwan/issues) with the BrainHack project template to submit your project.
+Please [open an issue](https://github.com/ohbm/OSworkshop2025_Taiwan/issues/new/choose) with the BrainHack project template to submit your project.
 
